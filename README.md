@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Architecture-CLOB_Order_Book-blue?style=for-the-badge&logo=polygon" alt="CLOB">
   <img src="https://img.shields.io/badge/AI_Logic-Claude_4.0_Omni-purple?style=for-the-badge&logo=anthropic" alt="Claude 4">
   <img src="https://img.shields.io/badge/Network-Polygon_Mainnet-8247E5?style=for-the-badge&logo=polygon" alt="Polygon">
-</p>    
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Latency-Sub--85ms-orange?style=for-the-badge" alt="Latency">
@@ -27,7 +27,7 @@
 </p>
 
 
-
+ 
 
 ## 🏛 Technical Infrastructure & Logic
 
