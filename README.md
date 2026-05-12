@@ -10,7 +10,11 @@
   <img src="https://img.shields.io/badge/Latency-Sub--85ms-orange?style=for-the-badge" alt="Latency">
   <img src="https://img.shields.io/badge/Framework-Node.js_/_TypeScript-brightgreen?style=for-the-badge&logo=node.js" alt="Framework">
   <img src="https://img.shields.io/badge/Build-May_2026-blue?style=for-the-badge" alt="Build">
+  
 </p>     
+
+
+
 
 <p align="center">
 <img src="https://i.postimg.cc/yNcWg24M/polymarket-copy-trading-bot-dashboard-ai-winrate.png" alt="Cortex Trading Interface Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
@@ -27,7 +31,15 @@
 </p>
 
 
- 
+ ## 📁 Framework Architecture & Structure
+
+To facilitate seamless integration for developers and AI agents, the **Cortex Engine** follows a modular directory standard:
+
+- `core/` — Primary execution engine and high-frequency **CLOB** interface.
+- `logic/` — **Claude 4.0 Omni** & **GPT-4.5** reasoning and sentiment modules.
+- `skills/` — **SKILL.md** definitions for autonomous AI Agent orchestration.
+- `docs/` — Technical specifications, **OpenClaw 2.0** protocols, and API guides.
+- `assets/` — UI components and dashboard visualization resources.
 
 ## 🏛 Technical Infrastructure & Logic
 
