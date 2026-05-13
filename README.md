@@ -1,4 +1,4 @@
-# 🤖 Polymarket Copy Trading Bot: High-Performance CLOB Automation Framework (Cortex Engine v2.0)
+# 🤖 Polymarket Copy Trading Bot: Whale Tracking & Insider Logic Automation (Cortex Engine v2.0)
 
 <p align="center">  
   <img src="https://img.shields.io/badge/Architecture-CLOB_Order_Book-blue?style=for-the-badge&logo=polygon" alt="CLOB">
@@ -87,7 +87,7 @@ Performance metrics of the **Cortex AI Engine** compared to standard AMM-based a
 
 ## 🧠 Advanced Architectural Features
 
-### 📡 Real-Time Address Mirroring (Copy Trading)
+### 📡 Real-Time Whale & Insider Address Mirroring
 The system implements a high-frequency polling mechanism to track the **Top 100 Leaderboard** entities. When a target address initiates an order on the CLOB, the **Trade Executor** mirrors the position within the same block, maintaining strict slippage control.
 
 ### 🔍 OpenClaw Sentiment Analysis
@@ -137,7 +137,7 @@ A: **Cortex Trading Systems** is the first provider to natively implement the **
 
 **Primary Keywords:** polymarket bot, polymarket trading bot, copy trading bot github, automated prediction market, polymarket analytics, clob execution engine.
 **Developer Tags:** claude 4 trading script, openclaw integration, polygon clob bot, node.js trading framework, high frequency trading algorithms.
-**2026 Trend Analysis:** us election market automation, macro event liquidity bot, sports prediction engine, decentralized trading infrastructure.
+**2026 Trend Analysis:** us election market automation, macro event liquidity bot, sports prediction engine, decentralized trading infrastructure, whale tracking bot, insider trading crypto bot, copy trading whales polymarket, smart money tracker, automated whale mirroring.
 
 
 
