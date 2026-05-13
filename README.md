@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="https://i.postimg.cc/yNcWg24M/polymarket-copy-trading-bot-dashboard-ai-winrate.png" alt="Cortex Trading Interface Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
+<img src="https://i.ibb.co/svh78kyT/polymarket-ai-copytrading-dashboard.png" alt="Cortex Trading Interface Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
 </p>
 
 <p align="center">
@@ -97,7 +97,16 @@ Leveraging the **OpenClaw 2.0 Protocol**, the bot analyzes global news feeds and
 All sensitive data, including API keys and private keys, are stored using **Hardware-level AES-256 encryption**. No sensitive information is ever transmitted to external servers.
 
 <p align="center">
-<img src="https://i.postimg.cc/hj0jMxGb/polymarket-api-settings-secure-encrypted-keys.png" alt="Cortex API Security Settings" width="90%">
+<img src="https://i.ibb.co/v4bwvZVS/secure-api-key-storage.png" alt="Cortex API Security Settings" width="90%">
+</p>
+
+
+<p align="center">
+<img src="https://i.ibb.co/n8kxBrmq/crypto-signals-monitor-ai.png" alt="Cortex API Crypto Signals " width="90%">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/h1YFTJVx/trading-bot-advanced-settings.png" alt="Cortex API  Settings" width="90%">
 </p>
 
 
