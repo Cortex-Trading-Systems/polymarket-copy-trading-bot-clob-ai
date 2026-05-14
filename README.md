@@ -17,7 +17,7 @@
 <p align="center">
   <img src="cortex-interface-runtime.gif" alt="Cortex AI Trading Agent - Automated Polymarket & Arbitrage Demo" width="800">
   <br>
-  <i>Figure 1: Cortex Engine v3.4.2 executing real-time arbitrage and whale-mirroring logic.</i>
+  <i>Figure 1: Cortex AI Agent executing high-frequency Polymarket whale-mirroring and sentiment analysis.</i>
 </p>
 
 
