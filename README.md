@@ -14,12 +14,13 @@
 
   
 
-
-
-
 <p align="center">
-<img src="https://i.ibb.co/svh78kyT/polymarket-ai-copytrading-dashboard.png" alt="Polymarket Copy Trading Bot - AI Dashboard Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
+  <img src="cortex-interface-runtime.gif" alt="Cortex AI Trading Agent - Automated Polymarket & Arbitrage Demo" width="800">
+  <br>
+  <i>Figure 1: Cortex Engine v3.4.2 executing real-time arbitrage and whale-mirroring logic.</i>
 </p>
+
+
 
 
 
@@ -118,6 +119,11 @@ All sensitive data, including API keys and private keys, are stored using **Hard
 <p align="center">
 <img src="https://i.ibb.co/h1YFTJVx/trading-bot-advanced-settings.png" alt="Cortex API  Settings" width="90%">
 </p>
+
+<p align="center">
+<img src="https://i.ibb.co/svh78kyT/polymarket-ai-copytrading-dashboard.png" alt="Polymarket Copy Trading Bot - AI Dashboard Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
+</p>
+
 
 
 ## 🔄 System Evolution: Manual vs. Cortex Infrastructure
